@@ -41,17 +41,12 @@ General specifications of analog sensor
 **Potentiometer**
 A potentiometer, informally a pot, is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
+
 CIRCUIT DIAGRAM
-
-
-
-
 
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
-Figure 1:Schematic View:
 
-![Screenshot 2024-02-23 155050](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/254c9fae-19b8-4379-96e6-1d3db349d7cd)
 
 
 **PROCEDURE:**
@@ -99,13 +94,7 @@ void loop()
 }
 ```
 
-
-
-
-
-
-
-
+![Screenshot 2024-02-23 154817](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/10ed1d58-fbb4-4fb3-a8ef-56149d4ee0de)
 **
 **Simulation output:** 
 **
@@ -121,9 +110,10 @@ Figure 3: On Condition
 
 ![Screenshot 2024-02-23 154857](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/4fede742-3b18-4da8-af7a-daa2ea5ff7b2)
 
-Figure 4: Graph
+Figure 1:Schematic View:
 
-![Screenshot 2024-02-23 154817](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/10ed1d58-fbb4-4fb3-a8ef-56149d4ee0de)
+![Screenshot 2024-02-23 155050](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/254c9fae-19b8-4379-96e6-1d3db349d7cd)
+
 
 
 
