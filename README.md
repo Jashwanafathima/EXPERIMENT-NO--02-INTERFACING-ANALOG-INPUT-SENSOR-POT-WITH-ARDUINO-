@@ -95,9 +95,8 @@ void loop()
 ```
 
 ![Screenshot 2024-02-23 154817](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/10ed1d58-fbb4-4fb3-a8ef-56149d4ee0de)
-**
+
 **Simulation output:** 
-**
 
 
 [My image](username.github.com/repository/img/image.jpg)
@@ -110,7 +109,7 @@ Figure 3: On Condition
 
 ![Screenshot 2024-02-23 154857](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/4fede742-3b18-4da8-af7a-daa2ea5ff7b2)
 
-Figure 1:Schematic View:
+Figure 4:Schematic View:
 
 ![Screenshot 2024-02-23 155050](https://github.com/Jashwanafathima/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119560192/254c9fae-19b8-4379-96e6-1d3db349d7cd)
 
